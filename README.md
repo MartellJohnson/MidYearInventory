@@ -1,5 +1,7 @@
 # 🧾 SSRS Physical Inventory Reporting
 
+<img width="957" height="371" alt="Screenshot 2025-07-21 102234" src="https://github.com/user-attachments/assets/c4767130-8b8e-4137-a57b-759f5da5ab19" />
+
 ## 📘 Overview
 This project automates the creation of **Physical Inventory Sheets** used across warehouse, logistics, and production environments. It leverages **SQL Server views** and **Microsoft Report Builder (SSRS)** to generate printable reports by bin and building.
 
